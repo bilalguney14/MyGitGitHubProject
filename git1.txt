@@ -3,3 +3,5 @@ Oleyy, git ogreniyorum.
 git init:projeyi gitle iliskilendirmek icin bir kere kullanilir.
 version 1
 --------------------------------------------------------------------
+git commit -m"":anlamli mesajlar
+version 2
