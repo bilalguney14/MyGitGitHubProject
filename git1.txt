@@ -1,0 +1,5 @@
+bir suru kod yazdim
+Oleyy, git ogreniyorum.
+git init:projeyi gitle iliskilendirmek icin bir kere kullanilir.
+version 1
+--------------------------------------------------------------------
