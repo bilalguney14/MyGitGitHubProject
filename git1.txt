@@ -1,11 +1,13 @@
-bir suru kod yazdim
-Oleyy, git ogreniyorum.
-git init:projeyi gitle iliskilendirmek icin bir kere kullanilir.
+bir sürü kod yazdım.
+Oleyy, git öğreniyorum.
+git init:projeyi gitle ilişkilendirmek için bir kere kullanılır.
 version 1
---------------------------------------------------------------------
-git commit -m"":anlamli mesajlar
+--------------------------------------------------
+git commit -m"":anlamlı mesajlar
 version 2
---------------------------------------------------------------------
-git commit -am"v2":bir kere 
-version 3
---------------------------------------------------------------------
+----------------------------------------
+git commit -am"v2":bir kere add komutu kullandıktan sonra kullanılır
+version3
+--------------------------------------------
+projeye yeni özellikler ekliyorum.
+codelar..... 
