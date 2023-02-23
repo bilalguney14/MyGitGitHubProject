@@ -11,3 +11,5 @@ version3
 --------------------------------------------
 projeye yeni özellikler ekliyorum.
 codelar..... 
+
+//master branch inde degisiklik yaptim
