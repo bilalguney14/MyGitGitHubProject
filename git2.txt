@@ -1,3 +1,7 @@
 git dersi ilk gun
 yeni codelar ekledim
+Yeni Ozellikler Ekledim
+Zahide
+merhaba dunya
 sql ödevlerini yaptınız mı
+
