@@ -1,2 +1,3 @@
 git dersi ilk gun
 yeni codelar ekledim
+sql ödevlerini yaptınız mı
