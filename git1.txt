@@ -13,3 +13,10 @@ projeye yeni özellikler ekliyorum.
 codelar..... 
 
 //master branch inde degisiklik yaptim
+
+
+
+
+simdi gul deen yeni codelar yazdim.
+bir kac degisiklik daha yaptim.
+--------
